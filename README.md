@@ -2,7 +2,7 @@ Importer un projet web JEE avec IntelliJ
 =====================
 
 Ingrédients :
-* JDK installé (retenez le dossier d'installation si vous le faite pour l'occasion)
+* JDK installé (retenez le dossier d'installation si vous le faites pour l'occasion)
 * Tomcatre installé et configuré (c'est-à-dire avoir été lancé avec succès avec le standalone après avoir SET JAVA_HOME)
 * IntelliJ Ultimate (logique vu le nom de ce tutoriel) ((Pour ceux qui n'ont pas l'ultimate, elle est gratuite en étant étudiant si vous entrez votre mail etu sur http://jetbrains.com/student))
 
