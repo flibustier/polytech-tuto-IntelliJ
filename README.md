@@ -15,7 +15,7 @@ Ouvrir le projet
 1. Sélectionnez «Import Project»
 ![Accueil de IntelliJ](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/1.png)
 
-2. Sélectionnez le dossier décompresser du projet eclipse
+2. Sélectionnez le dossier décompressé du projet eclipse
 ![Ecran de choix](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/2.png)
 
 3. «From external model» > Eclipse
