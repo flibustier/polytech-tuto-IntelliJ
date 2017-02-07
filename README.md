@@ -65,9 +65,9 @@ Solution :
 
 (Le problème peut survenir si vous avez un pc avec une "petite configuration" : IntelliJ installe le minimum.)
 
-**Suite de l'installation**
-
 ![intellij](https://cloud.githubusercontent.com/assets/11033258/22683502/7c61fc46-ed18-11e6-8ca7-6b7aa7b78eaf.png)
+
+**Suite de l'installation**
 
 3. Choisissez votre Tomcat dans le menu déroulant ou si il s'agit de la première fois, Cliquez sur «Configure…» pour choisir l'emplacement du dossier Tomcat
 ![Tomcatre server local](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/11.png)
