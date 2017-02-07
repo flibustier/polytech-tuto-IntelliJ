@@ -58,14 +58,14 @@ Lancer le projet
 2. Cliquez sur le + en vert > Tomcat Server (dans «Show x irrelevant item») > Local
 ![Run/Debug Configurations](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/10.png)
 
-**<issue> Tomcat n'apparait pas dans la liste "Run/Edit Configuration" ? (Merci Sacha!)** 
+**Tomcat n'apparait pas dans la liste "Run/Edit Configuration" ? (Merci Sacha!)** 
 
 Solution : 
 >File >Settings > Plugins > Chercher 'Tomcat' > Cocher la case pour rendre le plugin "Enable". 
 
 (Le problème peut survenir si vous avez un pc avec une "petite configuration" : IntelliJ installe le minimum.)
 
-**</issue>**
+**Suite de l'installation**
 
 ![intellij](https://cloud.githubusercontent.com/assets/11033258/22683502/7c61fc46-ed18-11e6-8ca7-6b7aa7b78eaf.png)
 
