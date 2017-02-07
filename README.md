@@ -77,3 +77,13 @@ Servir le projet
 ![Tomcatre server local](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/over 9000.png)
 
 Il n'y a plus qu'à lancer avec l'autre flèche verte apparût par magie, après quelques secondes votre navigateur s'ouvre sur http://localhost:8080/ et la magie vous submerge… C'est prêt !
+
+
+**Tomcat n'apparait pas dans la liste "Run/Edit Configuration" ? (Merci à Sacha !)** 
+
+Solution : 
+>File >Settings > Plugins > Chercher 'Tomcat' > Cocher la case pour rendre le plugin "Enable". 
+
+(Le problème peut survenir si vous avez un pc avec une "petite configuration" : IntelliJ installe le minimum.)
+
+![intellij](https://cloud.githubusercontent.com/assets/11033258/22683502/7c61fc46-ed18-11e6-8ca7-6b7aa7b78eaf.png)
