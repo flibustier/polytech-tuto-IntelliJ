@@ -58,6 +58,15 @@ Lancer le projet
 2. Cliquez sur le + en vert > Tomcat Server (dans «Show x irrelevant item») > Local
 ![Run/Debug Configurations](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/10.png)
 
+**Tomcat n'apparait pas dans la liste "Run/Edit Configuration" ?** 
+
+Solution : 
+>File >Settings > Plugins > Chercher 'Tomcat' > Cocher la case pour rendre le plugin "Enable". 
+
+(Le problème peut survenir si vous avez un pc avec une "petite configuration" : IntelliJ installe le minimum.)
+
+![intellij](https://cloud.githubusercontent.com/assets/11033258/22683502/7c61fc46-ed18-11e6-8ca7-6b7aa7b78eaf.png)
+
 3. Choisissez votre Tomcat dans le menu déroulant ou si il s'agit de la première fois, Cliquez sur «Configure…» pour choisir l'emplacement du dossier Tomcat
 ![Tomcatre server local](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/11.png)
 
@@ -77,13 +86,3 @@ Servir le projet
 ![Tomcatre server local](https://github.com/J0hn-/Polytech-Tuto-IntelliJ/raw/master/Screenshots/over 9000.png)
 
 Il n'y a plus qu'à lancer avec l'autre flèche verte apparût par magie, après quelques secondes votre navigateur s'ouvre sur http://localhost:8080/ et la magie vous submerge… C'est prêt !
-
-
-**Tomcat n'apparait pas dans la liste "Run/Edit Configuration" ? (Merci à Sacha !)** 
-
-Solution : 
->File >Settings > Plugins > Chercher 'Tomcat' > Cocher la case pour rendre le plugin "Enable". 
-
-(Le problème peut survenir si vous avez un pc avec une "petite configuration" : IntelliJ installe le minimum.)
-
-![intellij](https://cloud.githubusercontent.com/assets/11033258/22683502/7c61fc46-ed18-11e6-8ca7-6b7aa7b78eaf.png)
